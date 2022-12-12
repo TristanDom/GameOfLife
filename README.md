@@ -12,3 +12,9 @@ Se pueden agregar o eliminar células con el clic derecho del mouse y eliminar l
 Con la tecla de espacio o la tecla de flecha abajo se puede pausar el juego para así modificarlo agregando células o eliminando las mismas a gusto propio.
 
 ![Juego en funcionamiento con células agregadas](https://github.com/TristanDom/GameOfLife/blob/main/Galer%C3%ADa/Ejemplo1.png)
+
+![Juego en funcionamiento con células agregadas](https://github.com/TristanDom/GameOfLife/blob/main/Galer%C3%ADa/Ejemplo2.png)
+
+[Juego en funcionamiento con células agregadas](https://github.com/TristanDom/GameOfLife/blob/main/Galer%C3%ADa/Ejemplo3.png)
+
+Para finalizar el juego se puede presionar la tecla "Esc".
